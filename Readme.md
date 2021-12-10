@@ -6,4 +6,4 @@
  
 |     Day     |   Date      |      Topic/Program     |  Link        |
 |------------ |------------ |----------------------- |---------------|
-| Day 1       | 10-12-2021  |  Print Hello, world.   |
+| Day 1       | 10-12-2021  |  Print Hello, world.   | [Day 1] ()     |
