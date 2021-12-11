@@ -6,3 +6,4 @@
  
 |     Day     |   Date      |      Topic/Program     |  Link        |
 |------------ |------------ |----------------------- |---------------|
+| Day 1       | 10-12-2021  |  Print Hello, world.   | [Day 1](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%201/Hello_world.txt)|
