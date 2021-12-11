@@ -1,0 +1,11 @@
+# Adding two integers using function
+
+def addition(x, y ):
+   sum=x+y
+   return sum
+
+numb1 = 59
+numb2 = 90
+
+print("Sum of two integer is " , addition(numb1, numb2) ) # calling function
+    
