@@ -11,4 +11,4 @@
 | Day 3       | 12-12-2021  |  If- Else Loop          | [Day 3](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%203/If_Else_Loop.txt)|
 | Day 4       | 13-12-2021  |  For Loop               | [Day 4](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%204/For_Loop.txt)|
 | Day 5       | 14-12-2021  |  For Loop + Range       | [Day 5](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%205/Day5.txt)|
-| Day 6       | 15-12-2021  |   Leap year             |
+| Day 6       | 15-12-2021  |   Leap year             | [Day 6]()|
