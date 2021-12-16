@@ -12,4 +12,4 @@
 | Day 4       | 13-12-2021  |  For Loop               | [Day 4](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%204/For_Loop.txt)|
 | Day 5       | 14-12-2021  |  For Loop + Range       | [Day 5](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%205/Day5.txt)|
 | Day 6       | 15-12-2021  |   Leap year             | [Day 6](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%206/Day6.txt)|
-| Day 7       |
+| Day 7       | 16-12-2021  |
