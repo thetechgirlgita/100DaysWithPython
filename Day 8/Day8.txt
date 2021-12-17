@@ -1,0 +1,17 @@
+'''
+TASK: You are given  scores. Store them in a list and find the score of the runner-up.
+Input: 5
+       2 3 6 6 5
+Output: 5
+'''
+
+if __name__ == '__main__':
+    n = int(input())
+    arr = map(int, input().split())
+    #logic
+    arr2 = []
+    result = sorted(arr, reverse = True)
+    for x in result :
+        if x not in arr2:
+            arr2.append(x)
+    print(arr2[1])
