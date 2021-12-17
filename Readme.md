@@ -13,4 +13,4 @@
 | Day 5       | 14-12-2021  |  For Loop + Range       | [Day 5](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%205/Day5.txt)|
 | Day 6       | 15-12-2021  |   Leap year             | [Day 6](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%206/Day6.txt)|
 | Day 7       | 16-12-2021  | List Comprehensive      | [Day 7](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%207/Day7.txt)|
-| Day 8       | 17-12-2021  | Finding runner up       |
+| Day 8       | 17-12-2021  | Finding runner up       | [Day 8]
