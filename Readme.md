@@ -16,4 +16,4 @@
 | Day 8       | 17-12-2021  | Finding runner up       | [Day 8](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%208/Day8.txt)|
 | Day 9       | 18-12-2021  | Armstrong Number        | [Day 9](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%209/Day%209.txt)|
 | Day 10      | 19-12-2021  | Prime number            | [Day 10](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2010/Day10.txt)|
-| Day 11      | 20-12-2021  | Multiplication Table    | [Day 1]()|
+| Day 11      | 20-12-2021  | Multiplication Table    | [Day 11]()|
