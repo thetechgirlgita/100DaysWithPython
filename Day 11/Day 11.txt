@@ -1,0 +1,14 @@
+# Define a function where we use our logic
+def multiplication (num):
+  
+# For loop for 1 to 10 loop terms
+    for i in range(1,11): 
+        
+        print(num,  "X",  i, '=', num*i )  #Logic
+        
+
+#Take an input from user
+num = int(input("Enter your integer : "))
+
+#Calling function where we have our logic
+multiplication(num)
