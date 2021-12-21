@@ -17,4 +17,4 @@
 | Day 9       | 18-12-2021  | Armstrong Number        | [Day 9](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%209/Day%209.txt)|
 | Day 10      | 19-12-2021  | Prime number            | [Day 10](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2010/Day10.txt)|
 | Day 11      | 20-12-2021  | Multiplication Table    | [Day 11](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2011/Day%2011.txt)|
-| Day 12      | 21-12-2021  |
+| Day 12      | 21-12-2021  | Converting decimal values into Binary, Octal and Hexadecimal|
