@@ -1,0 +1,19 @@
+#Define function 
+def convert (num):
+  
+    #The returned binary string starts with the prefix 0b indicating it's in binary form.
+    print("The binary value of", num, "is: ", bin(num))
+    
+    #The result is same as your input because it already in decimal form.
+    print("The decimal value of", num, "is:", num)
+    
+    #The returned octal string starts with the prefix 0o indicating it's in octal form.
+    print("The octal value of ", num, "is", oct(num))
+    
+    #The returned hexadecimal string starts with the prefix 0x indicating it's in hexadecimal form.
+    print("The hexadecimal value of ", num, "is", hex(num))
+    
+
+num = int(input("Enter number: ")) #input from user
+
+convert(num) #calling function
