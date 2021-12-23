@@ -1,0 +1,41 @@
+#Defining functions according to operators.
+def add(x, y): 	
+    return x + y
+
+def minus(x, y):
+    return x - y
+
+def product(x, y):
+    return x * y
+
+def divide(x, y):
+    return x / y
+
+
+print("Which operation do you want?")
+print("1.Addition")
+print("2.Subtraction")
+print("3.Multiplication")
+print("4.Division\n")
+
+#logic
+  
+operation = input("Enter choice(1/2/3/4): ")
+
+if operation in ('1', '2', '3', '4'):
+  
+    n1 = float(input("Enter first number: "))
+    n2 = float(input("Enter second number: "))
+
+    if operation == '1':
+        print(n1, "+", n2, "=", add(n1, n2))
+
+    elif operation == '2':
+         print(n1, "-", n2, "=", minus(n1, n2))
+
+    elif operation == '3':
+        print(n1, "*", n2, "=", product(n1, n2))
+
+    elif operation == '4':
+        print(n1, "/", n2, "=", divide(n1, n2))
+        
