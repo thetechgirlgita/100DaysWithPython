@@ -1,0 +1,22 @@
+import calendar #import calendar pre built function
+
+print("Do you want to print month(M) or year(Y)?? ")
+
+choice = input()
+
+if choice == 'M' or choice == 'm' :
+  
+    year = int(input("Enter year: "))
+    month = int(input("Enter month: "))
+
+    print(calendar.month(year, month))
+    
+elif choice == 'Y' or choice == 'y' :
+  
+    year = int(input("Enter year: "))
+    
+    print(calendar.calendar(year, 1, 1, 4)) #calendar(year, w, l, c) = width, length and column
+
+    
+else :
+    print("Invalid Input ")
