@@ -21,4 +21,4 @@
 | Day 13      | 22-12-2021  | Fibonacci sequence      | [Day 13](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2013/Day%2013.txt)|
 | Day 14      | 23-12-2021  | Simple Calculator       | [Day 14](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2014/Day%2014.txt)|
 | Day 15      | 24-12-2021  | Print Calendar          | [Day 15](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2015/Day15.txt)|
-| Day 16      | 25-12-2021  | Palindrome number       |
+| Day 16      | 25-12-2021  | Palindrome number       | [Day 16]
