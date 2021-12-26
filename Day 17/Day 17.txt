@@ -1,0 +1,20 @@
+if __name__ == '__main__':
+  
+    arr = [] #initializing empty array
+    
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        
+        arr.append([score, name]) #insert score and name in array
+        
+    arr.sort() #helps to sort elements in array
+    
+    w = [ i for i in arr if i[0] != arr[0][0]]
+    w2 = [ j for j in w if j[0] == w[0][0]]
+    
+    w2.sort(key = lambda x: x[1])
+    
+    for i in range(len(w2)):
+        print(w2[i][1])
+        
