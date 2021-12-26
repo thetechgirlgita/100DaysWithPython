@@ -22,4 +22,4 @@
 | Day 14      | 23-12-2021  | Simple Calculator       | [Day 14](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2014/Day%2014.txt)|
 | Day 15      | 24-12-2021  | Print Calendar          | [Day 15](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2015/Day15.txt)|
 | Day 16      | 25-12-2021  | Palindrome number       | [Day 16](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2016/Day%2016.txt)|
-| Day 17      | 26-12-2021
+| Day 17      | 26-12-2021  |
