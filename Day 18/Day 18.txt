@@ -1,0 +1,22 @@
+
+if __name__ == '__main__':
+  
+    n = int(input())
+    student_marks = {}
+    
+    for _ in range(n):
+      
+        name, *line = input().split()
+        scores = list(map(float, line))
+        student_marks[name] = scores
+        
+    query_name = input()
+    
+    query_marks = student_marks[query_name] # Extract the values into a list: query_marks
+    
+    logic = sum(query_marks)/3
+    
+    average = "{:.2f}".format(logic) #to print only 2 value after decimal
+    
+    print(average)
+   
