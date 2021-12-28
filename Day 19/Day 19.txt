@@ -1,0 +1,15 @@
+
+
+if __name__ == '__main__':
+  
+    n = int(raw_input())
+    
+    integer_list = map(int, raw_input().split())
+    
+    converting = tuple(integer_list)
+    
+    hash_value = hash(converting)
+    
+    print(hash_value)
+    
+    
