@@ -27,4 +27,4 @@
 | Day 19      | 28-12-2021  | Print hash value of tuple input data | [Day 19](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2019/Day%2019.txt)|
 | Day 20      | 29-12-2021  | Print output using different datatypes | [Day 20](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2020/Day%2020.txt)|
 | Day 21      | 30-12-2021  | Program to find the factors of a number | [Day 21](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2021.txt)|
-| Day 22      | 1-
+| Day 22      | 01-
