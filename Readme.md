@@ -28,4 +28,4 @@
 | Day 20      | 29-12-2021  | Print output using different datatypes | [Day 20](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2020/Day%2020.txt)|
 | Day 21      | 30-12-2021  | Program to find the factors of a number | [Day 21](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2021.txt)|
 | Day 22      | 01-01-2022  | Swap Cases          | [Day 22](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2022/Day%2022.txt)|
-| Day 23      |
+| Day 23      | 02-01-2022  |
