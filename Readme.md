@@ -30,4 +30,4 @@
 | Day 22      | 01-01-2022  | Swap Cases          | [Day 22](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2022/Day%2022.txt)|
 | Day 23      | 02-01-2022  |
 | Day 24      | 03-01-2022  |
-| Day 25      |
+| Day 25      | 04-01-2022  |
