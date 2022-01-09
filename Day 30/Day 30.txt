@@ -1,0 +1,11 @@
+if __name__ == '__main__':
+        n, m = map(int, input().split(" "))
+
+        for i in range(n):
+                design = ".|."
+                if i < (n-1)/2:
+                        print((design * (2*i+1)).center(m, "-"))
+                elif i == (n-1)/2:
+                        print("WELCOME".center(m, "-"))
+                else:
+                        print((design * (2*(n-1-i)+1)).center(m, "-"))
