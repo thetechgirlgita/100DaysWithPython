@@ -36,4 +36,4 @@
 | Day 28     | 07-01-2022   | .center(width), .ljust(width)                  | [Day 28](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2028/Day%2028.txt)|
 | Day 29      | 08-01-2022  |  textwrap()                                     | [Day 29](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2029/Day%2029.txt)|
 | Day 30      | 09-01-2022  | design pattern                                  | [Day 30]()|
-| Day 31      | 10-01-2022  |   int.bit_length()                              |
+| Day 31      | 10-01-2022  |   int.bit_length()                              | [Day 31]
