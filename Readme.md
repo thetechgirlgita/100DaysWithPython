@@ -35,3 +35,4 @@
 | Day 27      | 06-01-2022  | str.isalnum(), isalpha(), isdigit(), islower() | [Day 27](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2027/Day%2027.txt)|
 | Day 28     | 07-01-2022   | .center(width), .ljust(width)                  | [Day 28](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2028/Day%2028.txt)|
 | Day 29      | 08-01-2022  |  textwrap()                                     | [Dat 29](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2029/Day%2029.txt)|
+| Day 30
