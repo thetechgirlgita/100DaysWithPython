@@ -1,0 +1,13 @@
+punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
+
+statement = input("Enter a string with some punctuation: ")
+
+# remove punctuation from the string
+r_p = ""
+for char in statement:
+   if char not in punctuations:
+       r_p = r_p + char
+
+# display the unpunctuated string
+print(r_p)
+
