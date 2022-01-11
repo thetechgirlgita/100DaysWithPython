@@ -37,4 +37,4 @@
 | Day 29      | 08-01-2022  |  textwrap()                                     | [Day 29](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2029/Day%2029.txt)|
 | Day 30      | 09-01-2022  | design pattern                                  | [Day 30]()|
 | Day 31      | 10-01-2022  |   int.bit_length()                              | [Day 31](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2031/Day%2031.txt)|
-| Day 32      | 11-01-2022  |  Remove punctuations                            | [Day 32]
+| Day 32      | 11-01-2022  |  Remove punctuations                            | [Day 32]()
