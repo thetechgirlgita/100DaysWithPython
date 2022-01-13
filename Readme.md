@@ -39,4 +39,4 @@
 | Day 31      | 10-01-2022  |   int.bit_length()                              | [Day 31](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2031/Day%2031.txt)|
 | Day 32      | 11-01-2022  |  Remove punctuations                            | [Day 32](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2032/Day%2032.txt)|
 | Day 33      | 12-01-2022  |  Vowels count                                   | [Day 33](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2033/Day%2033.txt)|
-| Day 34      | 13-01-2022  | .capitilize()                                   | [Day 34]()|                 
+| Day 34      | 13-01-2022  | .capitilize()                                   | [Day 34](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2034/Day%2034.txt)|                 
