@@ -28,8 +28,8 @@
 | Day 20      | 29-12-2021  | Print output using different datatypes | [Day 20](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2020/Day%2020.txt)|
 | Day 21      | 30-12-2021  | Program to find the factors of a number | [Day 21](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2021.txt)|
 | Day 22      | 01-01-2022  | Swap Cases          | [Day 22](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2022/Day%2022.txt)|
-| Day 23      | 02-01-2022  |
-| Day 24      | 03-01-2022  |
+| Day 23      | 02-01-2022  | 
+| Day 24      | 03-01-2022  |  
 | Day 25      | 04-01-2022  | Mutations          | [Day 25](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2025/Day%2025.txt)|
 | Day 26      | 05-01-2022  | startswith         | [Day 26](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2026/Day%2026.txt)|
 | Day 27      | 06-01-2022  | str.isalnum(), isalpha(), isdigit(), islower()  | [Day 27](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2027/Day%2027.txt)|
