@@ -42,4 +42,4 @@
 | Day 34      | 13-01-2022  | .capitilize()                                   | [Day 34](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2034/Day%2034.txt)| | Day 35      | 14-01-2022   |  sets                                          | [Day 35]()|
 | Day 36      | 15-01-2022   |                                                | [Day 36]()|
 | Day 45      | 24-01-2022   |  .union()                                      | [Day 45](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2045/Day%2045.txt)|
-| Day 46      | 26-01-2022   |
+| Day 46      | 26-01-2022   | .intersection()
