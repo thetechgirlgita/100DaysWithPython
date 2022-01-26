@@ -1,0 +1,15 @@
+
+#the number of students who have subscribed to the English newspaper.
+n = input()
+
+#the roll number of students who have subscribed to the English newspaper.
+set_n = set(map(int, input().split()))
+
+#the number of students who have subscribed to the french newspaper.
+b = input()
+
+#the roll number of students who have subscribed to the french newspaper.
+set_b = set(map(int, input().split()))
+
+# total number of students who have subscribed to both newspapers..
+print(len(set_n.intersection(set_b)))
