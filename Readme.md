@@ -44,4 +44,4 @@
 | Day 45      | 24-01-2022   |  .union()                                      | [Day 45](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2045/Day%2045.txt)|
 | Day 46      | 26-01-2022   | .intersection()                                | [Day 46](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2046/Day%2046.txt)|
 | Day 47      | 27-01-2022   | .difference()                                  | [Day 47](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2047/Day%2047.txt)|
-| Day 48      | 28-01-2022   |
+| Day 48      | 28-01-2022   | .sysmmetric_difference()                       |
