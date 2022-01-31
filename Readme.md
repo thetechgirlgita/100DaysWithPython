@@ -46,4 +46,4 @@
 | Day 47      | 27-01-2022   | .difference()                                  | [Day 47](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2047/Day%2047.txt)|
 | Day 48      | 28-01-2022   | .sysmmetric_difference()                       | [Day 48](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2048/Day48.txt)|
 | Day 49      | 29-01-2022   | .update()                                      | [Day 49]()|
-| Day 50      | 31-01-2022   |
+| Day 50      | 31-01-2022   | set                                            |
