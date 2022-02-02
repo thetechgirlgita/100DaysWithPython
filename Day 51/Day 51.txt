@@ -1,0 +1,12 @@
+
+steps = int(input())
+
+for x in range(steps):
+    n1 = int(input())
+    A = set(input().split())
+    
+    n2 = int(input())
+    B = set(input().split())
+    
+    print(A.issubset(B))
+    
