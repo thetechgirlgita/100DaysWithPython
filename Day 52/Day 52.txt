@@ -1,0 +1,5 @@
+
+a = set(input().split())
+Set = int(input())
+print(all(a > set(input().split())
+ for _ in range(Set)))
