@@ -49,3 +49,4 @@
 | Day 50      | 31-01-2022   | set                                            | [Day 50](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2050/Day%2050.txt)|
 | Day 51      | 02-02-2022   | set                                            | [Day 51](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2051/Day%2051.txt)|
 | Day 51      | 03-02-2022   | set                                            | [Day 52](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2052/Day%2052.txt)|
+| Day 52      |
