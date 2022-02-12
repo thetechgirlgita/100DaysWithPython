@@ -1,0 +1,11 @@
+from itertools import combinations
+
+word, num = input().split()
+
+A = list(word)
+A.sort()
+for i in range(int(num)):
+    li=list(combinations(A,i+1))
+    for j in li:
+        ans=''.join(j)
+        print(ans)
