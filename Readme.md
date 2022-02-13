@@ -53,7 +53,7 @@
 | Day 53      | 05-02-2022   |
 | Day 54      | 06-02-2022   |
 | Day 55      | 07-02-2022   |
-| Day 56      | 08-02-2022   |
+| Day 56      | 08-02-2022   |  collection defaultdict                    |
 | Day 57      | 09-02-2022   |  itertools.product()                       |
 | Day 58      | 10-02-2022   |  itertools.permutations()                  |
 | Day 59      | 12-02-2022   |  itertools.combinations()                  |
