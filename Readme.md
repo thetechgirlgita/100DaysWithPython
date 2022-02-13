@@ -54,7 +54,7 @@
 | Day 54      | 06-02-2022   |
 | Day 55      | 07-02-2022   |
 | Day 56      | 08-02-2022   |
-| Day 57      | 09-02-2022   |
+| Day 57      | 09-02-2022   |  itertools.product()                       |
 | Day 58      | 10-02-2022   |  itertools.permutations()                  |
 | Day 59      | 12-02-2022   |  itertools.combinations()                  |
 | Day 60      | 13-02-2022   |  itertools.combinations_with_replacement() |
