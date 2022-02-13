@@ -51,3 +51,4 @@
 | Day 51      | 03-02-2022   | set                                            | [Day 52](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2052/Day%2052.txt)|
 | Day 52      | 04-02-2022   |
 | Day 53      | 05-02-2022   |
+| Day 54      | 06-02-2022   |
