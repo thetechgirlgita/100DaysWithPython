@@ -1,0 +1,17 @@
+from collections import OrderedDict
+
+N = int(input())
+FOOD = OrderedDict()
+
+for _ in range(0,N):
+    *name, price = input().split()
+    
+    LEN,r = len(name), " ".join(name)
+    
+    if r not in FOOD:
+        FOOD[r] = int(price)
+        
+    else:
+        FOOD[r] +=int(price)
+        
+[print(itemprices,FOOD[itemprices]) for itemprices in FOOD]
