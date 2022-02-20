@@ -45,7 +45,7 @@
 | Day 46      | 26-01-2022   | .intersection()                                | [Day 46](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2046/Day%2046.txt)|
 | Day 47      | 27-01-2022   | .difference()                                  | [Day 47](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2047/Day%2047.txt)|
 | Day 48      | 28-01-2022   | .sysmmetric_difference()                       | [Day 48](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2048/Day48.txt)|
-| Day 49      | 29-01-2022   | .update()                                      | [Day 49]()|
+| Day 49      | 29-01-2022   | .update()                                      | [Day 49](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2049/Day%2049.txt)|
 | Day 50      | 31-01-2022   | set                                            | [Day 50](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2050/Day%2050.txt)|
 | Day 51      | 02-02-2022   | set                                            | [Day 51](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2051/Day%2051.txt)|
 | Day 52      | 03-02-2022   | set                                            | [Day 52](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2052/Day%2052.txt)|
