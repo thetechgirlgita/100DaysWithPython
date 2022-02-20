@@ -50,7 +50,7 @@
 | Day 51      | 02-02-2022   | set                                            | [Day 51](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2051/Day%2051.txt)|
 | Day 51      | 03-02-2022   | set                                            | [Day 52](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2052/Day%2052.txt)|
 | Day 52      | 04-02-2022   | set                                            |
-| Day 53      | 05-02-2022   |  Set .add()                                |
+| Day 53      | 05-02-2022   |  Set .add()                                | [Day 53](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2053/Day%2053.txt)|
 | Day 54      | 06-02-2022   | .pop(), .remove() and .discard().          | [Day 54](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2054/Day%2054.txt)|
 | Day 55      | 07-02-2022   |  collections.Counter().                    | [Day 55](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2055/Day%2055.txt)|
 | Day 56      | 08-02-2022   |  collection defaultdict                    | [Day 56](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2056/Day%2056.txt)|
