@@ -35,7 +35,7 @@
 | Day 27      | 06-01-2022  | str.isalnum(), isalpha(), isdigit(), islower()  | [Day 27](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2027/Day%2027.txt)|
 | Day 28     | 07-01-2022   | .center(width), .ljust(width)                   | [Day 28](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2028/Day%2028.txt)|
 | Day 29      | 08-01-2022  |  textwrap()                                     | [Day 29](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2029/Day%2029.txt)|
-| Day 30      | 09-01-2022  | design pattern                                  | [Day 30]()|
+| Day 30      | 09-01-2022  | design pattern                                  | [Day 30](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2030/Day%2030.txt)|
 | Day 31      | 10-01-2022  |   int.bit_length()                              | [Day 31](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2031/Day%2031.txt)|
 | Day 32      | 11-01-2022  |  Remove punctuations                            | [Day 32](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2032/Day%2032.txt)|
 | Day 33      | 12-01-2022  |  Vowels count                                   | [Day 33](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2033/Day%2033.txt)|
