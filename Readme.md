@@ -60,5 +60,5 @@
 | Day 60      | 13-02-2022   |  itertools.combinations_with_replacement() |
 | Day 61      | 14-02-2022   |                                            | [Day 61]()|
 | Day 62      | 15-02-2022   |                                            | [Day 62]()|
-| Day 63      | 17-02-2022   |                                            | [Day 63]()|
-| Day 64      | 19-02-2022   |                                            | [Day 64]()|
+| Day 63      | 17-02-2022   |                                            | [Day 63](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day63/Day63.txt)|
+| Day 64      | 19-02-2022   |                                            | [Day 64](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day64/Day64.txt)|
