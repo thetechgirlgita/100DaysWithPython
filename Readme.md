@@ -58,4 +58,4 @@
 | Day 58      | 10-02-2022   |  itertools.permutations()                  |
 | Day 59      | 12-02-2022   |  itertools.combinations()                  |
 | Day 60      | 13-02-2022   |  itertools.combinations_with_replacement() |
-| Day 61      |
+| Day 61      | 14-02-2022   |
