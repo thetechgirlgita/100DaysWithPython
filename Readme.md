@@ -58,7 +58,7 @@
 | Day 58      | 10-02-2022   |  itertools.permutations()                  |
 | Day 59      | 12-02-2022   |  itertools.combinations()                  |
 | Day 60      | 13-02-2022   |  itertools.combinations_with_replacement() |
-| Day 61      | 14-02-2022   |                                            | [Day 61]()|
-| Day 62      | 15-02-2022   |                                            | [Day 62](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2062/Day62.txt)|
+| Day 61      | 14-02-2022   |                                            | [Day 61](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2061/Day%2061.txt)|
+| Day 62      | 15-02-2022   |                                            | [Day 62](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2062/Day%2062.txt)|
 | Day 63      | 17-02-2022   |                                            | [Day 63](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2063/Day63.txt)|
 | Day 64      | 19-02-2022   | Collections                                | [Day 64](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day64/Day64.txt)|
