@@ -55,7 +55,7 @@
 | Day 55      | 07-02-2022   |  collections.Counter().                    |
 | Day 56      | 08-02-2022   |  collection defaultdict                    |
 | Day 57      | 09-02-2022   |  itertools.product()                       |
-| Day 58      | 10-02-2022   |  itertools.permutations()                  |
+| Day 58      | 10-02-2022   |  itertools.permutations()                  | [Day 58](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2058/Day%2058.txt)|
 | Day 59      | 12-02-2022   |  itertools.combinations()                  | [Day 59](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2059/Day%2059.txt)|
 | Day 60      | 13-02-2022   |  itertools.combinations_with_replacement() | [Day 60](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2060/Day%2060.txt)|
 | Day 61      | 14-02-2022   |                                            | [Day 61](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2061/Day%2061.txt)|
