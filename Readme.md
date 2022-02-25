@@ -64,6 +64,6 @@
 | Day 65      | 21-02-2022   | Rangoli of Alphabets                       | [Day 65](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day65/Day65.txt)|
 | Day 66      | 22-02-2022   | Math                                       | [Day 66](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2066/Day66.txt)|
 | Day 67      | 24-02-2022   | Collections.namedtuple()                    | [Day 67](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2067/Day%2067.txt)|
-| Day 68      | 25-02-2022   | Calendar Module                             | [Day 68]()|
+| Day 68      | 25-02-2022   | Calendar Module                             | [Day 68](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2067/Day%2067.txt)|
 
 
