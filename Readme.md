@@ -62,4 +62,5 @@
 | Day 63      | 17-02-2022   |                                            | [Day 63](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2063/Day63.txt)|
 | Day 64      | 19-02-2022   | Collections                               | [Day 64](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day64/Day64.txt)|
 | Day 65      | 21-02-2022   | Rangoli of Alphabets                       | [Day 65](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day65/Day65.txt)|
-| Day 66      |
+| Day 66      | 22-02-2022   | Math                                       | [Day 66](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2066/Day66.txt)|
+| Day 67      |
