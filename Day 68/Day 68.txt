@@ -1,0 +1,7 @@
+import calendar
+
+m, d, y = map(int, input().split())
+
+show = calendar.day_name[calendar.weekday(y, m, d)].upper()
+
+print(show)
