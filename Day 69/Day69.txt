@@ -1,0 +1,11 @@
+for case in range(int(input())):
+    try:
+        a,b = map(int,input().split()) 
+        division = a // b
+        print(division)
+        
+    except ZeroDivisionError as e:
+        print("Error Code:", e)
+        
+    except ValueError as e:
+        print("Error Code:", e)
