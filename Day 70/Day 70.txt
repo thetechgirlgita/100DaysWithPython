@@ -1,0 +1,13 @@
+import re
+a = input();
+
+for i in range(int(a)):
+    b = input();
+    try:
+        re.compile(b)
+        valid = True
+        
+    except re.error:
+        valid = False
+        
+    print(valid);
