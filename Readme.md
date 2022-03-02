@@ -66,4 +66,4 @@
 | Day 67      | 24-02-2022   | Collections.namedtuple()                    | [Day 67](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2067/Day%2067.txt)|
 | Day 68      | 25-02-2022   | Calendar Module                             | [Day 68](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2068/Day%2068.txt)|
 | Day 69      | 28-02-2022   | 
-| Day 70      | 02-03-2022   |
+| Day 70      | 02-03-2022   | Regex                                       |
