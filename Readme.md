@@ -70,4 +70,4 @@
 | Day 71      | 03-03-2022   | palindromic triangle                         | [Day 71](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2071/Day%2071.txt)|
 | Day 72      |
 | Day 73      |
-| Day 74      | 04-03-2022   | Validating Credit Card Numbers using Regex    |
+| Day 74      | 04-03-2022   | Validating Credit Card Numbers using Regex    | [Day 74]()|
