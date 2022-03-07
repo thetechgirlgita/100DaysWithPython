@@ -1,0 +1,14 @@
+import re
+
+for _ in range(int(input())):
+    number = input().strip()
+    try:
+        assert re.match(r'(\d{4}-){3}\d{4}$', number) or re.match(r'\d{16}$', number)
+        number = re.sub(r'-', '', number)
+        assert not re.search(r'(\d)\1{3,}', number)
+        assert re.match(r'[456]', number)
+        
+    except:
+        print('Invalid')
+    else:
+        print('Valid')
