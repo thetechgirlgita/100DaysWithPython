@@ -68,3 +68,4 @@
 | Day 69      | 28-02-2022   | Exception                                  |  [Day 69](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2069/Day%2069.txt)|
 | Day 70      | 02-03-2022   | Regex                                       | [Day 70](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2070/Day%2070.txt)|
 | Day 71      | 03-03-2022   | palindromic triangle                         | [Day 71](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2071/Day%2071.txt)|
+| Day 72      |
