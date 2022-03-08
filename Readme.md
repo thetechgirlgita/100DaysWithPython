@@ -71,4 +71,4 @@
 | Day 72      |
 | Day 73      |
 | Day 74      | 04-03-2022   | Validating Credit Card Numbers using Regex    | [Day 74]()|
-| Day 75      | 05-03-2022   | numpy                                         | [Day 75]()|
+| Day 75      | 05-03-2022   | numpy                                         | [Day 75](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2075/Day75.txt)|
