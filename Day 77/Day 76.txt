@@ -1,0 +1,19 @@
+import numpy as np
+
+num,m = map(int,input().split())
+
+a = np.zeros((num,m),int)
+b = np.zeros((num,m),int)
+
+for i in range(num):
+  a[i]=np.array(input().split(),int)
+  
+for i in range(num):
+  b[i]=np.array(input().split(),int)  
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(np.array(a/b,int))
+print(a%b)
+print(a**b)
