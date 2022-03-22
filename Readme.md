@@ -75,4 +75,4 @@
 | Day 76      | 09-03-2022   | numpy                                         | [Day 76](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2076/Day76.txt)|
 | Day 77      | 10-03-2022   | numpy, array mathematics                      | [Day 77](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2077/Day%2077.txt)|
 | Day 78      | 11-03-2022   |                                               | [Day 78]()|
-| Day 79      |
+| Day 79      | 12-03-2022   |
