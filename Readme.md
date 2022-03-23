@@ -80,3 +80,4 @@
 | Day 81      | 14-03-2022   |
 | Day 82      | 15-03-2022   |
 | Day 83      | 22-03-2022   | Inner ad Outer in numpy                      | [Day 83](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2083/Day%2083.txt)|
+| Day 84      |
