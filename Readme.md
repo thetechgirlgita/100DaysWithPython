@@ -84,6 +84,6 @@
 | Day 85      | 24-03-2022   | Linear Algebra                               | [Day 85](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2085/Day%2085.txt)|
 | Day 86      | 25-03-2022   | Shape and Reshape in numpy                               | [Day 86](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2086/Day%2086.txt)|
 | Day 87      | 26-03-2022   | Transpose and Flatten                                    | [Day 87]()|
-| Day 88      | Concatenate in numpy                                        |
+| Day 88      | 28-03-2022   | Concatenate in numpy                                        |
 
 
