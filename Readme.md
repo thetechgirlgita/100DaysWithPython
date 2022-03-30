@@ -86,5 +86,5 @@
 | Day 87      | 26-03-2022   | Transpose and Flatten                                    | [Day 87](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2087/Day%2087.txt)|
 | Day 88      | 28-03-2022   | Concatenate in numpy                                     | [Day 88](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2088/Day%2088.txt)|
 
-
+|              |                                                                       |
 | Day 90      | 30-03-2022 | Builts Ins                                                | [Day 90](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2090/Day%2090.txt)|
