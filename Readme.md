@@ -76,7 +76,7 @@
 | Day 77      | 10-03-2022   | numpy, array mathematics                      | [Day 77](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2077/Day%2077.txt)|
 | Day 78      | 11-03-2022   |                                               | [Day 78]()|
 | Day 79      | 12-03-2022   |                                               | [Day 79]()|
-| Day 80      | 13-03-2022   | 
+| Day 80      | 13-03-2022   |                                               | [Day 80]()|
 | Day 81      | 14-03-2022   |
 | Day 82      | 15-03-2022   |
 | Day 83      | 22-03-2022   | Inner ad Outer in numpy                      | [Day 83](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2083/Day%2083.txt)|
