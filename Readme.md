@@ -87,4 +87,4 @@
 | Day 88      | 28-03-2022   | Concatenate in numpy                                     | [Day 88](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2088/Day%2088.txt)|
 | Day 89      |                                                                       |
 | Day 90      | 30-03-2022 | Builts Ins                                                | [Day 90](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2090/Day%2090.txt)|
-| Day 91      | 31-03-2022 | All and Any in Builts Ins                                |  [
+| Day 91      | 31-03-2022 | All and Any in Builts Ins                                |  [Day 91]()|
