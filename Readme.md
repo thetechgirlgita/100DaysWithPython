@@ -88,7 +88,7 @@
 | Day 89      |                                                                       |
 | Day 90      | 30-03-2022 | Builts Ins                                                | [Day 90](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%2090/Day%2090.txt)|
 | Day 91      | 31-03-2022 | All and Any in Builts Ins                                |  [Day 91]()|
-| Day 92      | 01-03-2022 |                                                         |  [Day 92]()|
+| Day 92      | 01-04-2022 |                                                         |  [Day 92]()|
 | Day 93      | 02-03-2022 |
-| Day 94      |
+| Day 94      | 03-0
  
