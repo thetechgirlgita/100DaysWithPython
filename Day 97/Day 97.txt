@@ -1,0 +1,11 @@
+import re
+pattern1 = re.compile(r"\w+-?\w+: ?.*?(#[a-fA-F0-9]{6}|#[a-fA-F0-9]{3})")
+pattern2 = re.compile("(#[a-fA-F0-9]{6}|#[a-fA-F0-9]{3})")
+N = int(input())
+
+for i in range(N):
+    line = input()
+    test = pattern1.findall(line)
+    if test:
+        hex_list = pattern2.findall(line)
+        print(*hex_list, sep="\n")
