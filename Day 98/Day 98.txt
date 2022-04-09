@@ -1,0 +1,8 @@
+for i in range(int(input())):    
+    try:
+        n=input()
+        int(n.split('.')[1])    #for Decimal value ('12.')
+        if float(n):
+            print('True')
+    except:        
+        print('False')
